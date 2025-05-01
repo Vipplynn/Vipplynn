@@ -83,12 +83,11 @@
 - 🖼️ **Clean UI:** Designed with accessibility and mobile users in mind
 
 ### 🚀 Try it out:
-[Live Demo](https://cookcompassapp.netlify.app) ← *Update this with your deployed link if different*
+[Live Demo](https://cookcompassapp.netlify.app)
 
 ### 🔗 GitHub Repository:
 [GitHub Repository](https://github.com/CMPT-276-SPRING-2025/final-project-04-winds)
 
-<!-- Optional: Screenshot (host on imgur or your repo's assets) -->
 ![CookCompass Screenshot](https://github.com/user-attachments/assets/236a71f4-a601-46f3-9b85-51e93db52baa)
 ![CookCompass Screenshot 2](https://github.com/user-attachments/assets/d6539b27-d90b-4d53-a3e1-0143da04ae0f)
 
