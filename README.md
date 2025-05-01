@@ -67,7 +67,7 @@
 
 ---
 
-## 🧭 Featured Project: CookCompass
+## 🧭 CookCompass
 
 > A voice-assisted recipe finder that helps you cook hands-free with ingredients you already own — perfect for busy or novice cooks.
 
