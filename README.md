@@ -34,7 +34,7 @@
 - 🌱 Interested in **web dev**, **software engineering**, and **machine learning**
 - 💡 Currently building: `CookCompass` – hands-free recipe web app with TTS + translation  
 - 🚀 I’ve placed Top 3 at hackathons like **Mountain Madness** and **Bank Hacks**  
-- 🎮 Fun fact: I produce music and create digital illustrations in my free time
+- 🎮 Fun fact: I produce music and create digital illustrations in my free time. I love to boulder and play volleyball.
 
 ---
 
