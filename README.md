@@ -69,12 +69,12 @@
 
 ## 🧭 Featured Project: CookCompass
 
-> A voice-assisted recipe finder that helps you cook hands-free — perfect for busy kitchens.
+> A voice-assisted recipe finder that helps you cook hands-free with ingredients you already own — perfect for busy or novice cooks.
 
 ### 🧠 Tech Stack:
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend / APIs:** Spoonacular API, Google Translate API, Web Speech API (Text-to-Speech)
-- **Other Tools:** GitHub, Netlify (or GitHub Pages), Figma
+- **Frontend:** React 
+- **Backend / APIs:** Spoonacular API, Google Translate API, Web Speech API (Text-to-Speech), Jest
+- **Other Tools:** GitHub, Netlify, Figma
 
 ### 🔍 Features:
 - 🗣️ **Text-to-Speech:** Reads instructions aloud so you can follow recipes hands-free
