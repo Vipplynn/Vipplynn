@@ -1,9 +1,14 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Christian 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right:10px;" />
+  Hi there, I'm Christian
+</h1>
+
 <p align="center">
   <em>2nd-year Computer Science student @ SFU | Aspiring Software Developer | Hackathon Enthusiast</em>
 </p>
 
+<!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/chochristian/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -16,14 +21,20 @@
   </a>
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79489&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;Music+Producer+%2B+Digital+Artist;Hackathon+Finalist+%F0%9F%8E%89;Currently+exploring+AI+and+3D+web" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 I’m currently studying **Computer Science at Simon Fraser University**  
-- 🌱 Currently interested in **web development**, **software development**, and **machine learning**
-- 🚀 I’ve participated in multiple hackathons like **Mountain Madness**, **Bank Hacks**, placing **Top 3**  
-- 🎮 Fun fact: In my free time, I love producing music and making digital art.
+- 🌱 Interested in **web dev**, **software engineering**, and **machine learning**
+- 💡 Currently building: `CookCompass` – hands-free recipe web app with TTS + translation  
+- 🚀 I’ve placed Top 3 at hackathons like **Mountain Madness** and **Bank Hacks**  
+- 🎮 Fun fact: I produce music and create digital illustrations in my free time
 
 ---
 
@@ -52,13 +63,10 @@
 
 ---
 
-### 🔍 Featured Projects
+### 🔍 Featured Projects & Awards
 
 - 🧭 [**CookCompass**](https://github.com/ChristianCho/cookcompass)  
   *React web app with speech synthesis, translation, and recipe search via Spoonacular API.*
-
-- 🕹️ [**Spline Portfolio (WIP)**](#)  
-  *Interactive 3D developer portfolio using Spline and React.*
 
 - 🛒 [**BudgetWise**](#) *(Private Repo)*  
   *A lightweight budgeting tool using Firebase and Tailwind CSS.*
@@ -67,8 +75,18 @@
 
 ### 📬 Let's Connect
 
-If you’re building something cool, want to collaborate, or just want to say hi — feel free to reach out!
+- 💼 [LinkedIn](https://www.linkedin.com/in/chochristian/)
+- 🌐 [Website](https://vipplynn.github.io/)
+- ✉️ [Email](mailto:christianc0000@gmail.com)
 
 ---
 
-*Thanks for visiting my profile! ⭐️ Don't forget to check out my repositories below.*
+### 🧍 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristianCho&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+*Thanks for visiting my profile! ⭐️ Don’t forget to check out my repositories below.*
