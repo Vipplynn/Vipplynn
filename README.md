@@ -20,11 +20,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently studying **Computer Science @ Simon Fraser University**  
-- 🌱 Currently exploring **React**, **TypeScript**, **Node.js**, and **3D interactive portfolios**  
-- 🛠️ Building: [`CookCompass`](https://github.com/ChristianCho/cookcompass) – a recipe assistant with TTS & translation  
+- 🎓 I’m currently studying **Computer Science at Simon Fraser University**  
+- 🌱 Currently interested in **web development**, **software development**, and **machine learning**
 - 🚀 I’ve participated in multiple hackathons like **Mountain Madness**, **Bank Hacks**, placing **Top 3**  
-- 🎮 Fun fact: I love sound design and game UIs, and I’m experimenting with **Spline** and **Three.js**
+- 🎮 Fun fact: In my free time, I love producing music and making digital art.
 
 ---
 
