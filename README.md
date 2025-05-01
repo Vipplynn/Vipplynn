@@ -96,18 +96,20 @@
 ## 🏆 Hackathon Highlights
 
 ### 🧩 Mountain Madness – 3rd Place Winner · CSSS _(Mar. 2024)_
-**Project:** *Jake's Journey* – A 3D puzzle adventure built in Unity  
-**Tech:** `C#` · `Unity`
+**Project:** *Jake's Journey* – A 3D puzzle adventure game  
+**Tech:** `C#` · `Unity`  
+[🔗 GitHub](https://github.com/Masagoro1/PuzzleGame)
 
 - 🎮 Programmed a player movement system that dynamically adjusted to camera orientation
-- 🎨 Designed immersive levels in collaboration with a multidisciplinary team
+- 🎨 Designed immersive puzzle levels with a multidisciplinary team
 - 🔊 Produced original sound effects & soundtrack in **FL Studio** using vocal recordings
 
 ---
 
 ### 🏦 Bank Hacks Winner · DNS Club _(Mar. 2024)_
-**Project:** *Real-Time Banking System* – Transactional client/server banking application  
-**Tech:** `Python`
+**Project:** *Real-Time Banking System* – Secure client/server app  
+**Tech:** `Python`  
+[💻 GitHub](https://github.com/DnSClub/DNS-Transaction-Challenge-2024)
 
 - ⚙️ Engineered a packet-based data collection system from a centralized server
 - 🔐 Implemented secure onboarding for new client accounts
@@ -115,14 +117,14 @@
 
 ---
 
-### 🕹️ Fall Hacks – 3rd Place Winner · CSSS _(Oct. 2023)_
-**Project:** *Birge Adventure* – Arcade-style game with online leaderboard  
-**Tech:** `C#` · `Unity`
+### 🕹️ Fall Hacks – 3rd Place Winner · CSSS _(Fall 2023)_
+**Project:** *Birge Adventure* – Arcade-style Unity game  
+**Tech:** `C#` · `Unity`  
+[🔗 GitHub](https://github.com/Masagoro1/FallHacks23)
 
 - 🏆 Integrated an online leaderboard to compare real-time scores between players
-- 🔉 Composed dynamic sound effects & music in **FL Studio** for enhanced game feel
-- 👾 Contributed to core game mechanics and level design as part of a small dev team
-
+- 🔉 Composed original sound effects and music in **FL Studio**
+- 👾 Co-developed game mechanics and level design
 
 ---
 
