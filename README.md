@@ -63,7 +63,7 @@
 
 ---
 
-### 🔍 Featured Projects & Awards
+### 🔍 Featured Projects
 
 ---
 
