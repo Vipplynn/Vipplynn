@@ -33,7 +33,7 @@
 - 🎓 I’m currently studying **Computer Science at Simon Fraser University**  
 - 🌱 Interested in **web dev**, **software engineering**, and **machine learning**
 - 💡 Currently building: `CookCompass` – hands-free recipe web app with TTS + translation  
-- 🚀 I’ve placed Top 3 at hackathons like **Mountain Madness** and **Bank Hacks**  
+- 🚀 I’ve placed Top 3 at hackathons like **Mountain Madness 2024**, **Bank Hacks 2024**, and **Fall Hacks 2023**  
 - 🎮 Fun fact: I produce music and create digital illustrations in my free time. I love to boulder and play volleyball.
 
 ---
@@ -91,6 +91,37 @@
 ![CookCompass Screenshot](https://github.com/user-attachments/assets/236a71f4-a601-46f3-9b85-51e93db52baa)
 ![CookCompass Screenshot 2](https://github.com/user-attachments/assets/d6539b27-d90b-4d53-a3e1-0143da04ae0f)
 
+---
+
+## 🏆 Hackathon Highlights
+
+### 🧩 Mountain Madness – 3rd Place Winner · CSSS _(Mar. 2024)_
+**Project:** *Jake's Journey* – A 3D puzzle adventure built in Unity  
+**Tech:** `C#` · `Unity`
+
+- 🎮 Programmed a player movement system that dynamically adjusted to camera orientation
+- 🎨 Designed immersive levels in collaboration with a multidisciplinary team
+- 🔊 Produced original sound effects & soundtrack in **FL Studio** using vocal recordings
+
+---
+
+### 🏦 Bank Hacks Winner · DNS Club _(Mar. 2024)_
+**Project:** *Real-Time Banking System* – Transactional client/server banking application  
+**Tech:** `Python`
+
+- ⚙️ Engineered a packet-based data collection system from a centralized server
+- 🔐 Implemented secure onboarding for new client accounts
+- 💸 Developed real-time processing for debit/credit transactions with accurate state updates
+
+---
+
+### 🕹️ Fall Hacks – 3rd Place Winner · CSSS _(Oct. 2023)_
+**Project:** *Birge Adventure* – Arcade-style game with online leaderboard  
+**Tech:** `C#` · `Unity`
+
+- 🏆 Integrated an online leaderboard to compare real-time scores between players
+- 🔉 Composed dynamic sound effects & music in **FL Studio** for enhanced game feel
+- 👾 Contributed to core game mechanics and level design as part of a small dev team
 
 
 ---
