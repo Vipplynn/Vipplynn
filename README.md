@@ -89,7 +89,7 @@
 [github.com/ChristianCho/cookcompass](https://github.com/CMPT-276-SPRING-2025/final-project-04-winds)
 
 <!-- Optional: Screenshot (host on imgur or your repo's assets) -->
-<![CookCompass Screenshot](https://github.com/Vipplynn/Vipplynn/issues/1#issue-3033139839)
+<![CookCompass Screenshot](https://github.com/user-attachments/assets/236a71f4-a601-46f3-9b85-51e93db52baa)
 
 
 
