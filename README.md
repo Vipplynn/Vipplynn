@@ -65,11 +65,33 @@
 
 ### 🔍 Featured Projects & Awards
 
-- 🧭 [**CookCompass**](https://github.com/ChristianCho/cookcompass)  
-  *React web app with speech synthesis, translation, and recipe search via Spoonacular API.*
+---
 
-- 🛒 [**BudgetWise**](#) *(Private Repo)*  
-  *A lightweight budgeting tool using Firebase and Tailwind CSS.*
+## 🧭 Featured Project: CookCompass
+
+> A voice-assisted recipe finder that helps you cook hands-free — perfect for busy kitchens.
+
+### 🧠 Tech Stack:
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend / APIs:** Spoonacular API, Google Translate API, Web Speech API (Text-to-Speech)
+- **Other Tools:** GitHub, Netlify (or GitHub Pages), Figma
+
+### 🔍 Features:
+- 🗣️ **Text-to-Speech:** Reads instructions aloud so you can follow recipes hands-free
+- 🌍 **Multilingual Support:** Translate recipes into multiple languages
+- 🍳 **Smart Filtering:** Search by ingredients you already have
+- 🖼️ **Clean UI:** Designed with accessibility and mobile users in mind
+
+### 🚀 Try it out:
+[Live Demo](https://cookcompassapp.netlify.app) ← *Update this with your deployed link if different*
+
+### 🔗 GitHub Repository:
+[github.com/ChristianCho/cookcompass](https://github.com/CMPT-276-SPRING-2025/final-project-04-winds)
+
+<!-- Optional: Screenshot (host on imgur or your repo's assets) -->
+<![CookCompass Screenshot](https://imgur.com/a/urjywTC)
+
+
 
 ---
 
