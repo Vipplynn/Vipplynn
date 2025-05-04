@@ -53,16 +53,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianCho&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianCho&theme=radical" />
-</p>
-
----
-
 ### 🔍 Featured Projects
 
 ---
