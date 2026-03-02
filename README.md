@@ -32,7 +32,7 @@
 
 - 🎓 I’m currently studying **Computer Science at Simon Fraser University**  
 - 🌱 Interested in **web dev**, **software engineering**, and **machine learning**
-- 💡 Currently building: `I don't know yet` 
+- 💡 Currently building: `Artifial Life Simulation in C` 
 - 🚀 I’ve placed Top 3 at hackathons like **Mountain Madness 2024**, **Bank Hacks 2024**, and **Fall Hacks 2023**  
 - 🎮 Fun fact: I produce music and create digital illustrations in my free time. I also love to go bouldering and play volleyball with my friends.
 
